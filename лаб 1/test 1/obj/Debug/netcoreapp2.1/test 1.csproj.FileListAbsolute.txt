@@ -1,0 +1,11 @@
+D:\проекты 3 сем\ООП\лаб 1\test 1\bin\Debug\netcoreapp2.1\test 1.deps.json
+D:\проекты 3 сем\ООП\лаб 1\test 1\bin\Debug\netcoreapp2.1\test 1.runtimeconfig.json
+D:\проекты 3 сем\ООП\лаб 1\test 1\bin\Debug\netcoreapp2.1\test 1.runtimeconfig.dev.json
+D:\проекты 3 сем\ООП\лаб 1\test 1\bin\Debug\netcoreapp2.1\test 1.dll
+D:\проекты 3 сем\ООП\лаб 1\test 1\bin\Debug\netcoreapp2.1\test 1.pdb
+D:\проекты 3 сем\ООП\лаб 1\test 1\obj\Debug\netcoreapp2.1\test 1.csproj.AssemblyReference.cache
+D:\проекты 3 сем\ООП\лаб 1\test 1\obj\Debug\netcoreapp2.1\test 1.csproj.CoreCompileInputs.cache
+D:\проекты 3 сем\ООП\лаб 1\test 1\obj\Debug\netcoreapp2.1\test 1.AssemblyInfoInputs.cache
+D:\проекты 3 сем\ООП\лаб 1\test 1\obj\Debug\netcoreapp2.1\test 1.AssemblyInfo.cs
+D:\проекты 3 сем\ООП\лаб 1\test 1\obj\Debug\netcoreapp2.1\test 1.dll
+D:\проекты 3 сем\ООП\лаб 1\test 1\obj\Debug\netcoreapp2.1\test 1.pdb
