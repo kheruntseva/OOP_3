@@ -1,0 +1,1 @@
+[23.12.2024 22:51:41] Action: пишу что-то в лог файл, FileName: kdylogfile.txt, FilePath: D:\проекты 3 сем\ООП\лаб 12\lab12\obj\Debug\netcoreapp2.1\kdylogfile.txt

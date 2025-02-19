@@ -1,0 +1,15 @@
+Сборка: lab11
+Публичные конструкторы: True
+Публичные методы:
+DisplayInfo
+UpdateVersion
+ToString
+Equals
+GetHashCode
+GetType
+Публичные поля:
+NAME
+VERSION
+Публичные свойства:
+Реализованные интерфейсы:
+Методы, содержащие параметр типа System.Int32:
