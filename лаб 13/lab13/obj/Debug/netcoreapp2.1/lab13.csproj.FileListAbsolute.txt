@@ -1,0 +1,4 @@
+D:\проекты 3 сем\ООП\лаб 13\lab13\obj\Debug\netcoreapp2.1\lab13.csproj.AssemblyReference.cache
+D:\проекты 3 сем\ООП\лаб 13\lab13\obj\Debug\netcoreapp2.1\lab13.csproj.CoreCompileInputs.cache
+D:\проекты 3 сем\ООП\лаб 13\lab13\obj\Debug\netcoreapp2.1\lab13.AssemblyInfoInputs.cache
+D:\проекты 3 сем\ООП\лаб 13\lab13\obj\Debug\netcoreapp2.1\lab13.AssemblyInfo.cs
